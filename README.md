@@ -43,7 +43,7 @@
 - Types d'entreprises : ... VIDEO GAMES
 - Exemple d'entreprise : ... GAME SCIENCE
 
-![Nom de l'entreprise](entreprise.jpg)
+![Nom de l'entreprise](gameScience.png)
 
 (source de l'image : ...)
 
