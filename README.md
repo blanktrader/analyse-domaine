@@ -14,13 +14,13 @@
 
 | Domaine | Intérêt | Pourquoi |
 |---|---|---|
-| Graphisme | ... | ... | Fort,
-| Vidéo et animation 2D | ... | ... | Fort
-| 3D | ... | ... | Fort
-| Web | ... | ... | Fort
-| Jeux vidéo | ... | ... | Fort
-| Développement logiciel | ... | ... | Fort
-| Installations et expériences immersives | ... | ... | Fort
+| Graphisme | ... | ... | Fort |
+| Vidéo et animation 2D | ... | ... | Fort |
+| 3D | ... | ... | Fort |
+| Web | ... | ... | Fort |
+| Jeux vidéo | ... | ... | Fort |
+| Développement logiciel | ... | ... | Fort |
+| Installations et expériences immersives | ... | ... | Fort |
 car ils sont tous fondamentale aux projets que j'aimerais vraiment réaliser
 
 ## Mes 2 domaines préférés
